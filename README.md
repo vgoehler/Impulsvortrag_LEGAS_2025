@@ -16,9 +16,18 @@ Motivation
 
 ## KI in der Lehre
 
-- Nutzungsszenarien: Unterstützung vs. Ersatz oder Verbot
-- Chancen: Effizienz, Individualisierung, neue Lernformen
-- Herausforderungen: Abhängigkeit, Bewertung, Ethik
+- Nutzungsszenarien: **Unterstützung** vs. **Ersatz** oder **Verbot**
+- Chancen: 
+
+  - Effizienz
+  - Individualisierung
+  - neue Lernformen
+
+- Herausforderungen: 
+
+  - Abhängigkeit
+  - Bewertung
+  - Ethik
 
 ## AI Literacy
 
