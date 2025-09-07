@@ -7,7 +7,7 @@ edit: true
 
 # Impulsvortrag LEGAS 2025
 
-[![LiaScript Course](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://liascript.github.io/course/?https://raw.githubusercontent.com/vgoehler/Impulsvortrag_LEGAS_2025/refs/heads/main/README.md)
+[![LiaScript Course](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/vgoehler/Impulsvortrag_LEGAS_2025/refs/heads/main/README.md)
 
 
 Motivation
