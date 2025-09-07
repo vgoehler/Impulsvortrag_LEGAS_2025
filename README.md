@@ -3,12 +3,12 @@ author: Volker Göhler
 date: 2025-09-07
 email: volker.goehler@informatik.tu-freiberg.de
 edit: true
+-->
 
-\-->
+# Impulsvortrag LEGAS 2025
 
-# Impulsvortrag_LEGAS_2025
-
-## Motivation
+Motivation
+==========
 
 - KI ist längst Teil von Alltag, Studium und Beruf
 - Studierende müssen kompetent und reflektiert mit KI umgehen können
