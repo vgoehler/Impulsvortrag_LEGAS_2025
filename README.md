@@ -52,13 +52,15 @@ Motivation
 
 ## Pilotversuch: Rahmen
 
-- Lehrumfeld (TUBAF):
+Lehrumfeld (TUBAF):
+===============
   
   - Seminar Deep Learning
   - Softwareentwicklung
   - Introduction to Machine Learning and Big Data
     
-- Teilnehmende:
+Teilnehmende:
+============
   
   -  n = 23/65
   - Informatiker (Business, Geo, Mathe)
@@ -75,6 +77,7 @@ Motivation
      
    - mit fester Zeitfestsetzung (30 min bis 1h)
 2. Umfrage
+   
    - Demografische Fragen
    - SNAIL (32 Fragen in 3 Kategorien)
      
@@ -83,7 +86,8 @@ Motivation
      - Technical Understanding
        
    - Aufgaben spezifische Fragen
-3. Diskussion in der Gruppe über die Ergebnisse
+     
+4. Diskussion in der Gruppe über die Ergebnisse
 
 ## Ergebnisse
 
@@ -120,6 +124,7 @@ Motivation
 
 ## Danke 😁 
 
-Fragen?  
+> Fragen?
+
 volker.goehler@tu-freiberg.de
 
