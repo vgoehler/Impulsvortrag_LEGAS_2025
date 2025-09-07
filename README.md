@@ -23,30 +23,38 @@ edit: true
 ## AI Literacy
 
 - Begriff: AI Literacy = Wissen, Fähigkeiten, Haltung im Umgang mit KI
-- Kompetenzdimensionen: 
+- Kompetenzdimensionen:
+  
   - Technisches Verständnis
   - Kritische Reflexion
   - Praktische Anwendung
+  
 - Bezug zu AI Literacy Frameworks und SNAIL
 
 ## Meine Methode
 
 - Lernsetting: Seminar mit Fokus auf praktische KI-Anwendungen
-- Didaktischer Ansatz: 
+- Didaktischer Ansatz:
+  
   - Projektarbeit
   - Diskussion
+    
 - Werkzeuge: LLMs, Coding
 
 ## Pilotversuch: Rahmen
 
 - Lehrumfeld (TUBAF):
+  
   - Seminar Deep Learning
   - Softwareentwicklung
   - Introduction to Machine Learning and Big Data
+    
 - Teilnehmende:
+  
   -  n = 23/65
   - Informatiker (Business, Geo, Mathe)
   - Bachelor (spät), Master (früh) + Internationals
+    
 - Zeitrahmen: 2 Wochen
 
 ## Pilotversuch: Vorgehen
@@ -54,14 +62,17 @@ edit: true
 1. Projektaufgabe
    - eine untypische Aufgabe passend für die Veranstaltung
 
-     > Programmieren Sie eine Webanwendung, die Goldpreise Inflationsbereinigt in einem Diagramm ausgibt. 
+     > Programmieren Sie eine Webanwendung, die Goldpreise Inflationsbereinigt in einem Diagramm ausgibt.
+     
    - mit fester Zeitfestsetzung (30 min bis 1h)
 2. Umfrage
    - Demografische Fragen
    - SNAIL (32 Fragen in 3 Kategorien)
+     
      - Critical Appraisal
      - Practical Application
      - Technical Understanding
+       
    - Aufgaben spezifische Fragen
 3. Diskussion in der Gruppe über die Ergebnisse
 
@@ -74,10 +85,12 @@ edit: true
 ### LLMs
 
 - viele Verschiedene
+  
   - ChatGPT
   - Copilot
   - Gemini
   - Chat AI (Göttingen)
+    
 - die Studenten nutzen bis zu 3 verschiedene Modelle
 - 80/20
 
@@ -87,11 +100,13 @@ edit: true
 - Welche Rolle spielen Prüfungen und Leistungsbewertung?
 
 
-- Geplanter nächster Schritt: 
+- Geplanter nächster Schritt:
+  
   - größere Studie
   - Vergleich unterschiedlicher Methoden
   - Vorher/Nacher
   - andere Fächer
+    
 - Perspektive: Integration in Curriculum
 
 ## Danke 😁 
